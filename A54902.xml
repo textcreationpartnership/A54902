@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarique ode upon the late horrid and damnable Whiggish plot</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54902</idno><idno type="EEBO-CITATION">12991685</idno>
+  <idno type="VID">96344</idno>
+  <idno type="EEBO-PROQUEST">2240884914</idno>
+  
+            <idno type="STC">Wing P2258</idno>
+            <idno type="STC">ESTC R8145</idno>
+            <idno type="OCLC">12991685</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarique ode upon the late horrid and damnable Whiggish plot</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by N. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rye House Plot, 1683 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ode">
+            <pb facs="tcp:96344:1"/>
+            <pb facs="tcp:96344:1"/>
+            <pb facs="tcp:96344:2"/>
+            <pb n="1" facs="tcp:96344:2"/>
+            <head>A Pindarique Ode, Upon the late Horrid and <hi>Damnable Whiggish Plot.</hi>
+            </head>
+            <lg>
+               <head>I.</head>
+               <l>DIssenting <hi>Bigots,</hi> boast no more</l>
+               <l>Of Glorious Mischiefs heretofore;</l>
+               <l>Not all the Troops your Godly <hi>Factions</hi> led,</l>
+               <l>
+                  <hi>Bradshaw</hi> and <hi>Cromwell</hi> in their Head,</l>
+               <l>Can vie with single <hi>Shaftsbury,</hi>
+               </l>
+               <l>For secure Arts of close-laid Villany;</l>
+               <l>They but the empty Types, the weighty substance He.</l>
+               <l>'Tis true, these two great Leaders carry'd on</l>
+               <l>Their bold Designs till Life was done;</l>
+               <l>But when the Vip'rous pair was crush'd, the Wound</l>
+               <l>They living made, clos'd and again was Sound:</l>
+               <l>Whilst he, like <hi>Serpents</hi> of more Pois'nous kind,</l>
+               <l>Where e're he once his fork'd Tongue applies,</l>
+               <l>Though in the Fatal Act he dies,</l>
+               <l>Still leaves his Venom and his Sting behind.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>
+                  <hi>Monmouth</hi> and <hi>Essex</hi> both were Stung,</l>
+               <l>And many more by this Envenom'd Tongue;</l>
+               <l>And strait they all began to Swell,</l>
+               <l>From Sense and Reason strait they Fell;</l>
+               <l>And Melancholly Fumes possess'd their Brain,</l>
+               <l>And they wou'd all be Kings, and all wou'd Raign.</l>
+               <l>Hence their disorder'd passion Springs,</l>
+               <l>And spitting Venom on the best of Kings;</l>
+               <l>Hence their attempts upon his Life and Throne;</l>
+               <l>Hence all the secret Mysteries</l>
+               <l>Of undermining Treacheries,</l>
+               <l>And hidden Veins of Treasons yet unknown.</l>
+               <l>But thou, Great <hi>Charles,</hi> despise their vain Designs;</l>
+               <l>The <hi>Ʋnicorn,</hi> Supporter of thy Arms,</l>
+               <l>'Gainst all their Poison bears sufficient Charms;</l>
+               <l>And a much greater Pow'r blows up their deepest Mines.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Methinks the dark Cabal of Six I see,</l>
+               <l>Double <hi>Triumvirate</hi> of Villany;</l>
+               <l>Exceeding that which went before</l>
+               <l>In Number much, in mischief more:</l>
+               <l>
+                  <hi>Caesar</hi>'s Adopted Son does first appear;</l>
+               <l>Art thou, my <hi>Brutus,</hi> there?</l>
+               <pb n="2" facs="tcp:96344:3"/>
+               <l>Thou that wert once so Great and Good;</l>
+               <l>From the high place wherein you justly stood</l>
+               <l>How art thou fall'n, O <hi>Lucifer?</hi>
+               </l>
+               <l>He once, like you, was Fair and Bright,</l>
+               <l>Chief Leader of the Glorious Hosts of Light;</l>
+               <l>But long (alas!) he cou'd not bear</l>
+               <l>To see above him plac'd th' Eternal Kings Immediate Heir.</l>
+               <l>He scorn'd Subjection, for a Kingdom fell;</l>
+               <l>But gain'd Eternal Slavery and Hell:</l>
+               <l>Thus while from Good to Ill they headlong tend,</l>
+               <l>The brightest Angel makes the blackest Fiend.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Next <hi>Essex,</hi> once deservedly Great,</l>
+               <l>Though since the Scorn and Mockery of Fate:</l>
+               <l>
+                  <hi>Essex,</hi> whose late Successful sway</l>
+               <l>Made <hi>Ireland</hi> Peaceably obey;</l>
+               <l>And follow'd well Great <hi>Ormonds</hi> Track, who led him all the way.</l>
+               <l>His Fathers Bright Example long prevail'd,</l>
+               <l>And that most Precious Legacy</l>
+               <l>He left to him of <hi>Loyalty;</hi>
+               </l>
+               <l>(So the declining <hi>Sun,</hi> when chas'd by coming Night,</l>
+               <l>Still guilds the World a while with the remains of Light:)</l>
+               <l>But when that <hi>Hell</hi> and <hi>Shaftsbury</hi> assail'd,</l>
+               <l>His Noble Resolutions quickly fail'd,</l>
+               <l>And all his former Virtues nought avail'd.</l>
+               <l>
+                  <hi>Addresses</hi> and <hi>Petitions</hi> first.</l>
+               <l>(For who can fall at once from Good to Worst?)</l>
+               <l>Began the Game; and aiming to Betray,</l>
+               <l>Like <hi>Judas, All Hail Master,</hi> led the way.</l>
+               <l>Unhappy man! who carry'd on</l>
+               <l>Too sadly the Comparison!</l>
+               <l>Tortur'd like him by his Despair,</l>
+               <l>Like him he was his own sad Executioner.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>
+                  <hi>Russel</hi> and <hi>Esckrick</hi> next in order were;</l>
+               <l>Nor did I much admire to see them there:</l>
+               <l>Happy the latter of the two, who since</l>
+               <l>Has wash'd away his Faults in Humble Penitence;</l>
+               <l>And by a true Confession</l>
+               <l>Of others Treason and his own,</l>
+               <l>With his most Gracious Prince may for the last Atone.</l>
+               <l>I wave the former, since he Justly di'd,</l>
+               <l>And by his Death has satisfi'd:</l>
+               <l>But he has to himself bin more unkind;</l>
+               <l>And his own Libel left behind.</l>
+               <l>Next <hi>Sydney</hi> comes; a Name</l>
+               <l>In brave Sir <hi>Philip</hi> known to Fame</l>
+               <l>For Perfect Wit and Loyalty;</l>
+               <l>Though now by <hi>Algernoon</hi> mark'd with so Black a Dye,</l>
+               <l>As does almost Eclipse the Fame of his Great Ancestry.</l>
+               <l>
+                  <hi>Hampden</hi> the last; the worthy Son</l>
+               <l>Of him well known in <hi>Fourty One:</hi>
+               </l>
+               <pb n="3" facs="tcp:96344:3"/>
+               <l>Grand Patron of the <hi>Canting Tribe,</hi>
+               </l>
+               <l>How shall I thee Describe?</l>
+               <l>None can draw thee according to thy due,</l>
+               <l>But he that has the knack to <hi>Hang</hi> and <hi>Quarter</hi> too.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>These, and a num'rous Train of many more,</l>
+               <l>Their dark Designs did secretly contrive;</l>
+               <l>Till <hi>Keeling,</hi> who did long Connive,</l>
+               <l>To sound their depth, and number all their store,</l>
+               <l>Broke forth, and shone like Gold amidst the Ore.</l>
+               <l>Against his Conscience nothing cou'd prevail;</l>
+               <l>Not Life and Int'rest in the other Scale:</l>
+               <l>All other by-concerns he laid aside;</l>
+               <l>And fix'd his mind with Noble Pride</l>
+               <l>Upon a Name so Good and Great,</l>
+               <l>As sole Preserver of the <hi>Church</hi> and <hi>State.</hi>
+               </l>
+               <l>What Thanks for such Obligements shall we bring?</l>
+               <l>Our Fortunes and our Lives we owe</l>
+               <l>For what you did on us bestow;</l>
+               <l>What then for our <hi>Religion,</hi> and our <hi>King?</hi>
+               </l>
+               <l>Take first our Hearts; while we can only Pray,</l>
+               <l>God and his great Vice-gerent will repay.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>And now the Horrid <hi>Plot</hi> appears,</l>
+               <l>Writ in the Blackest Characters;</l>
+               <l>And ev'ry Page some Bloody Title bears,</l>
+               <l>
+                  <hi>Seditions, Treasons, Massacres.</hi>
+               </l>
+               <l>What in a King so Good, what cou'd they see,</l>
+               <l>To Arme that numerous Conspiracy</l>
+               <l>Against so mild a Majesty;</l>
+               <l>Which like the <hi>Sun,</hi> its Beams does wear,</l>
+               <l>Not to Consume, but Warm and Cheer?</l>
+               <l>Blest Prince! and canst thou still Dispence</l>
+               <l>To this Unthankful Land thy Gracious Influence?</l>
+               <l>Still canst thou shed thy Favours upon those</l>
+               <l>That are the near Relations of thy Foes?</l>
+               <l>Brave <hi>Capel</hi> and <hi>Southampton</hi> on this Hand,</l>
+               <l>
+                  <hi>Essex</hi> and <hi>Russel</hi> on the other stand;</l>
+               <l>He turn'd from these, and fix'd his Princely view</l>
+               <l>Upon the Nobler Object of the two;</l>
+               <l>And as he look'd, on all their Friends his willing Favours threw.</l>
+               <l>Let <hi>Russel</hi>'s Wife (said he) unpitty'd go;</l>
+               <l>But shall <hi>Southampton</hi>'s Daughter fall so low?</l>
+               <l>
+                  <hi>Essex</hi> his Son shou'd want, 'tis true;</l>
+               <l>But what shall then Brave <hi>Capel</hi>'s Grandson do?</l>
+               <l>In his Indulgent Memory,</l>
+               <l>So long great Virtues live, so soon Offences Dye.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>Yet him, thus justly fam'd for mildness of his Reign,</l>
+               <l>The Bloody <hi>Faction</hi> dooms to dye;</l>
+               <l>And to Enhance their Cruelty,</l>
+               <l>Wou'd in his Royal Brother Murder him again:</l>
+               <pb n="4" facs="tcp:96344:4"/>
+               <l>His Royal Brother, who had always bin</l>
+               <l>A Partner of the Troubles he was in;</l>
+               <l>Of all his dangers bore a share,</l>
+               <l>And still with him Joynt-Sufferer:</l>
+               <l>Ev'n him their Hellish rage Assails;</l>
+               <l>The <hi>Hercules,</hi> that when our <hi>Atlas</hi> fails,</l>
+               <l>Must with his Shoulders prop the sinking State,</l>
+               <l>And bear unmov'd the mighty weight.</l>
+               <l>With them the Loyal, all the Good and Great,</l>
+               <l>Must meet an unrelenting Fate;</l>
+               <l>For those by strong Antipathy they hate.</l>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>Nor can the Church escape this Cursed band:</l>
+               <l>What once was to the Worst a Sanctuary,</l>
+               <l>Can to its self no Refuge be;</l>
+               <l>That with the State does always fall or stand:</l>
+               <l>And may both stand till time its self has end;</l>
+               <l>And still each other mutually defend:</l>
+               <l>For whilst with open Force, or secret Hate,</l>
+               <l>The two extreams assault the State;</l>
+               <l>The <hi>English</hi> Church keeps on her steady pace,</l>
+               <l>Fix'd in the middle, Virtues place;</l>
+               <l>Nor e're Rebell'd against the Throne,</l>
+               <l>Under whose Gracious shade 'twas planted and has grown.</l>
+               <l>But as the <hi>Ivy,</hi> with whose Verdant Boughs</l>
+               <l>Her Learned Sons may justly wreath their Brows,</l>
+               <l>Does round the <hi>Elme</hi> its loving Branches twine;</l>
+               <l>And when the Axe its kind support assails,</l>
+               <l>That also feels the Stroke, and with it fails:</l>
+               <l>So while the Church and State their strict Embraces joyn;</l>
+               <l>The same rude Blow, that over-turns the Crown,</l>
+               <l>Strikes its lov'd partner too, and hews her down.</l>
+            </lg>
+            <lg>
+               <head>X.</head>
+               <l>Ah! wretched <hi>England!</hi> how art thou,</l>
+               <l>The Worlds late Envy, made its Laughter now?</l>
+               <l>Is't not enough, that Forreign Foes</l>
+               <l>Disturb thy quiet, and thy Peace oppose?</l>
+               <l>But must thy Children, like young Vipers, tear</l>
+               <l>The womb which did them bear?</l>
+               <l>Hast thou so few Abroad, that thou must be</l>
+               <l>Thy own most dreadful Enemy?</l>
+               <l>At length, Unhappy Land thy Errors view;</l>
+               <l>And give to <hi>Caesar,</hi> and to God their due;</l>
+               <l>Leave Factious Arts, nor let so stale a Cheat</l>
+               <l>Twice in one Age impose upon the State:</l>
+               <l>Murmure no more, when you shou'd Thanks repay;</l>
+               <l>And value Mercies, least thy fly away:</l>
+               <l>For they who spurn at God, deserve to suffer worse;</l>
+               <l>And Blessings, when abus'd, oft turn into a Curse.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>N. Thompson</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Cross,</hi> 1684.</p>
+            <pb facs="tcp:96344:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
